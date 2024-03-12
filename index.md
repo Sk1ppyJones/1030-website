@@ -1,8 +1,12 @@
-# _Website for Dr. Hadzick's 1030 Class_
+#
+
+<center>
+
+## _Website for Dr. Hadzick's 1030 Class_
 
 ## Welcome to my website! In this we'll be talking about me and showcasing the capabilities of markdown
 
-### Background
+## Background
 
 First off lets start with my background, I switched to computer science this  
 semester after being an English Education major for awhile. Over spring break I  
